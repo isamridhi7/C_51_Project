@@ -1,0 +1,30 @@
+.top{
+color: white;
+border-color: black;
+border : solid;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 90px;
+font-style: italic;
+background-color:#225255;
+}
+.mid{
+    color: rgb(37, 2, 65);
+    border-color: black;
+    border : solid ;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-style: italic;
+    background-color:#f1ff2d;
+    }
+    .middle{
+        color: oldlace;
+        border : solid;
+        border-color: black;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 50px;
+        font-style: italic;
+        background-color:maroon;
+        }

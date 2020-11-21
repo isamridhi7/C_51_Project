@@ -1,0 +1,61 @@
+h1{
+    border :solid;
+    border-width: 6px;
+    color:brown;
+    background-color: goldenrod;
+    text-align: center;
+    text-shadow: 2px 2px 5px yellow;
+    font-family:Georgia;
+    font-size: 90px;
+    }
+   
+.orgams{
+    border: double;
+    border-color: brown;
+    border-width: 7px;  
+    margin: 45px;
+    width: 1250px;
+    background-color: rgb(255, 178, 11);
+}
+.bfly{
+background-image: url(bg.jpg);  
+border: double;
+border-width: 7px;
+border-color: brown;
+margin: 25px;
+width: 1190px;
+font-size: 20px;
+font-family: fantasy;
+color:#ec1d6c;
+
+}
+
+.bb{
+color: rgb(145, 0, 0);
+}
+
+.bd{
+    border:dotted;
+    border-color: maroon;
+    margin: 2px;
+    width: 210px
+}
+
+.linking{
+    background-color: rgb(247, 199, 199);
+    border-style: double ;
+    border-width: 6px;
+    border-color: #ec581d;
+    margin: 25px;
+    width: 1292px;
+  
+}
+body{
+    background-image: url(bgg.jpg);
+    border-style:groove;
+    border-width: 2cm ;
+    border-color: rgb(139, 0, 0);
+  
+    
+     }
+
